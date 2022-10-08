@@ -1,0 +1,31 @@
+>> Use echo command to print anything on console;
+$ echo "Anything"
+$ echo Anything
+
+>> Use command cal to print calander;
+$ cal (use sudo apt -y install ncal) to install calander
+$ cal year(2022)
+$ cal -y(current year calander)
+
+>> Use date command to see day, date, month, time, timezone, and year;
+$ date
+
+>> Use "clear" to clear the screen and also you can use shortcut "CTRL + L";
+
+>> You can use up arrow key to see previously used commands and can use them;
+
+>> You can use "history" command to see all your used commands history associated with a
+   number and you can use a specific commands by entering that number like "!anyNumber";
+$ history
+$ !4
+
+>> If you want to run you last command(most recent) then run command "!!";
+$ !!
+
+>> To clear the history run command "history -c";
+$ history -c
+
+>> To clear the history and write the changes permanantely use command
+$ history -c; history -w
+
+>> To exit from console use "exit" command or use "Ctrl + D" or "Alt + F4";
